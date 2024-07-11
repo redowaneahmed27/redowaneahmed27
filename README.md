@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking to collaborate on **Software Automation Testing for testing API, web & Mobile platform.**
 
-- 📫 You can reach me throughh me **Email: redowaneahmed8@gmail.com or Phone:+8801304396330.**
+- 📫 You can reach me through **Email: redowaneahmed8@gmail.com or Phone:+8801304396330.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
